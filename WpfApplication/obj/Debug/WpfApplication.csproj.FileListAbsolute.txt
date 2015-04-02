@@ -1,0 +1,29 @@
+D:\Ivaniv\CodedUITestProject\WpfApplication\bin\Debug\WpfApplication.exe.config
+D:\Ivaniv\CodedUITestProject\WpfApplication\bin\Debug\WpfApplication.exe
+D:\Ivaniv\CodedUITestProject\WpfApplication\bin\Debug\WpfApplication.pdb
+D:\Ivaniv\CodedUITestProject\WpfApplication\obj\Debug\WpfApplication.csprojResolveAssemblyReference.cache
+D:\Ivaniv\CodedUITestProject\WpfApplication\obj\Debug\MainWindow.baml
+D:\Ivaniv\CodedUITestProject\WpfApplication\obj\Debug\MainWindow.g.cs
+D:\Ivaniv\CodedUITestProject\WpfApplication\obj\Debug\App.g.cs
+D:\Ivaniv\CodedUITestProject\WpfApplication\obj\Debug\WpfApplication_MarkupCompile.cache
+D:\Ivaniv\CodedUITestProject\WpfApplication\obj\Debug\WpfApplication.g.resources
+D:\Ivaniv\CodedUITestProject\WpfApplication\obj\Debug\WpfApplication.Properties.Resources.resources
+D:\Ivaniv\CodedUITestProject\WpfApplication\obj\Debug\WpfApplication.csproj.GenerateResource.Cache
+D:\Ivaniv\CodedUITestProject\WpfApplication\obj\Debug\WpfApplication.exe
+D:\Ivaniv\CodedUITestProject\WpfApplication\obj\Debug\WpfApplication.pdb
+D:\Ivaniv\Software Testing\CodedUITestProject\WpfApplication\bin\Debug\WpfApplication.exe.config
+D:\Ivaniv\Software Testing\CodedUITestProject\WpfApplication\obj\Debug\WpfApplication.exe
+D:\Ivaniv\Software Testing\CodedUITestProject\WpfApplication\obj\Debug\WpfApplication.pdb
+D:\Ivaniv\Software Testing\CodedUITestProject\WpfApplication\bin\Debug\WpfApplication.exe
+D:\Ivaniv\Software Testing\CodedUITestProject\WpfApplication\bin\Debug\WpfApplication.pdb
+D:\Ivaniv\Software Testing\CodedUITestProject\WpfApplication\obj\Debug\WpfApplication.csprojResolveAssemblyReference.cache
+D:\Ivaniv\Software Testing\CodedUITestProject\WpfApplication\obj\Debug\MainWindow.baml
+D:\Ivaniv\Software Testing\CodedUITestProject\WpfApplication\obj\Debug\MainWindow.g.cs
+D:\Ivaniv\Software Testing\CodedUITestProject\WpfApplication\obj\Debug\App.g.cs
+D:\Ivaniv\Software Testing\CodedUITestProject\WpfApplication\obj\Debug\WpfApplication_MarkupCompile.cache
+D:\Ivaniv\Software Testing\CodedUITestProject\WpfApplication\obj\Debug\WpfApplication.g.resources
+D:\Ivaniv\Software Testing\CodedUITestProject\WpfApplication\obj\Debug\WpfApplication.Properties.Resources.resources
+D:\Ivaniv\Software Testing\CodedUITestProject\WpfApplication\obj\Debug\WpfApplication.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\HomeWorks\Ivaniv\Software Testing\CodedUITestProject\WpfApplication\bin\Debug\WpfApplication.exe.config
+C:\Users\User\Desktop\HomeWorks\Ivaniv\Software Testing\CodedUITestProject\WpfApplication\obj\Debug\WpfApplication.exe
+C:\Users\User\Desktop\HomeWorks\Ivaniv\Software Testing\CodedUITestProject\WpfApplication\obj\Debug\WpfApplication.pdb

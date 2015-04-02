@@ -1,0 +1,4 @@
+D:\Ivaniv\Software Testing\CodedUITestProject\CodedUITestProject\bin\Debug\CodedUITestProject.dll
+D:\Ivaniv\Software Testing\CodedUITestProject\CodedUITestProject\bin\Debug\CodedUITestProject.pdb
+D:\Ivaniv\Software Testing\CodedUITestProject\CodedUITestProject\obj\Debug\CodedUITestProject.dll
+D:\Ivaniv\Software Testing\CodedUITestProject\CodedUITestProject\obj\Debug\CodedUITestProject.pdb
